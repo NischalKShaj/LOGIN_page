@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: yellow;
+}
+.log_in{
+    background-color: gold;
+}
+.log_in input{
+    
+    margin: auto;
+    width: 100px;
+    height: 50px;
+}
